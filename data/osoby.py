@@ -88,6 +88,15 @@ P = {
              note="Otec Jana – jen ze stromu na MyHeritage, neověřeno."),
     73: dict(n="Magdalena Havrlantová", y="", st="mh", f=[], r=[],
              note="Matka Jana – jen ze stromu na MyHeritage („Magdalena Havrlant“), neověřeno."),
+    144: dict(n="Šimon Čerbák", y="1745–1806", st="mh", f=["* 1745", "† 1806"], r=[],
+              note="Otec Josepha – jen ze stromu na MyHeritage, neověřeno."),
+    145: dict(n="Anna Vavrečková", y="? – 1817", st="mh", f=["† 1817"], r=[],
+              note="Matka Josepha – jen ze stromu na MyHeritage („Anna Vavrečka“), neověřeno."),
+    288: dict(n="Jakub Čerbák", y="1696–1766", st="mh", f=["* 1696", "† 1766"], r=[],
+              note="Otec Šimona – jen ze stromu na MyHeritage, neověřeno."),
+    289: dict(n="Rosina Nováková", y="", st="mh", f=[], r=[],
+              note="Matka Šimona podle stromu na MyHeritage – ten u ní uvádí narození 1765, což nejde (syn Šimon * 1745). "
+                   "Buď je rok chybně, nebo jde o jinou ženu (druhá manželka Jakuba?). Neověřeno."),
     74: dict(n="Jakub Illík", y="", st="mh", f=[], r=[],
              note="Otec Johanny – jen ze stromu na MyHeritage („Jakobus Illík“), neověřeno."),
     75: dict(n="Terezie Bubeníková", y="", st="mh", f=[], r=[],
@@ -130,6 +139,9 @@ ISSUES = [
      "Hypotéza (zesílená): rejstřík narozených uvádí „Miroslava, dcera Františka“. V Říčanech č. 13 žil rolník František Šneberg s manželkou Františkou roz. Mityškovou(?); jejich dcera "
      "Cyrilla (* 1897) se vdala 1920. Miroslava mohla být její mladší sestra; Mityškovi se objevují i v rodinném vyprávění. "
      "Ověřit v rejstříku narozených Ostrovačice (kn. 1552)."),
+    ("Kdo byla matka Šimona Čerbáka (* 1745)?",
+     "Otevřené: strom na MyHeritage uvádí Rosinu Novákovou * 1765 – o 20 let mladší než její údajný syn. Chyba ve stromu; "
+     "ověřit v matrikách."),
     ("Kdy se narodila Juliána Šnebergová, sestra Františka?",
      "Vyřešeno: na ostřejším snímku je 29. 11. 1862 (věk 34), ne 1868 – rozpor s bratrem Františkem (* 1868) zmizel."),
 ]
