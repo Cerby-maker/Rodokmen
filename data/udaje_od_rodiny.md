@@ -17,6 +17,11 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
   (Zapsáno jako: matka Cyrilla = Annamarie; její rodiče = Josef a Karolina Čerbákovi. Petr potvrdil: Josef byl otec Annamarie.)
 - Babička Eliška Pavlíková: otec Tomáš Pavlík, matka Anežka Pavlíková.
 - Josef Čerbák, otec Annamarie: narozen 8. 3. 1829, zemřel 22. 8. 1898 (místa neuvedena).
+- Strom „Čerbáková“ na MyHeritage (snímek od Petra, 13. 11. 2026; cizí strom = jen vodítko, stav mh):
+  Cyrill Čerbák 12. 5. 1892 – 28. 1. 1965; matka Annamarie Čerbáková (nar. 1874–1880); její rodiče Josef Čerbák
+  8. 3. 1829 – 22. 8. 1898 a Karolína Vaňková 1837 – 25. 6. 1882; Josefovi rodiče Jan Čerbák 1801–1867 a Johanna N
+  Illíková 1805–1869; Janovi rodiče Joseph Čerbák a Magdalena Havrlant; Johanniny rodiče Jakobus Illík a Theresia
+  Bubeníková; Karolíniny rodiče Ondřej Vaněk a Mechtilda Kubíčková. Místa ve stromu na snímku nejsou.
 - Cyrill a Miroslava měli v roce 1932 v Ostravě syna Romana → svatba před rokem 1932.
 - Petr: „Mityškovi se v rodinných historkách vyskytovali.“ (Reakce na sňatek 1920 v Říčanech, kde je matka nevěsty
   Cyrilly Šnebergové rozená Mityšková – podporuje, že Šnebergovi z Říčan č. 13 jsou rodina babičky Miroslavy.)

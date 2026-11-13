@@ -27,7 +27,8 @@ P = {
             note="Žijící – údaje jen základní."),
     4: dict(n="Cyrill Čerbák", y="1892–1965", st="fam",
             f=["* 1892", "pocházel z Kyjovic (okres Opava, u Ostravy)", "rodina bydlela také v Pusté Polomi", "† 1965"], r=[],
-            note="Údaje od vnuka Petra. Byl o 18 let starší než manželka Miroslava – možná druhé manželství, ověřit."),
+            note="Údaje od vnuka Petra. Byl o 18 let starší než manželka Miroslava – možná druhé manželství, ověřit. "
+                 "Strom na MyHeritage (neověřeno) uvádí * 12. 5. 1892, † 28. 1. 1965."),
     5: dict(n="Miroslava Šnebergová", y="* 1910", st="doc", f=["* 2. 7. 1910 Říčany", "dcera Františka Šneberga"],
             r=["ostrovacice_index_n_miroslava_snebergova_1910"],
             note="Rejstřík narozených Ostrovačice (kn. 1552, sn. 64): „1910 … 2/7 Šnebergová Miroslava, dcera Františka, "
@@ -36,9 +37,10 @@ P = {
             note="Údaje od vnuka Petra."),
     7: dict(n="Eliška Pavlíková", y="1924–1990", st="fam", f=["* 1924", "pocházela z Tikovic", "† 1990"], r=[],
             note="Údaje od vnuka Petra. Tikovice jsou dnes část Ořechova u Brna."),
-    9: dict(n="Annamarie Čerbáková", y="", st="fam", f=[], r=[],
+    9: dict(n="Annamarie Čerbáková", y="asi 1874–1880 – ?", st="fam", f=[], r=[],
             note="Matka dědy Cyrilla (od vnuka Petra). Rodné příjmení Čerbáková = stejné jako syn, Cyrill byl tedy "
-                 "nejspíš nemanželský syn; ověřit v křestní matrice. Otec Cyrilla zatím neznámý."),
+                 "nejspíš nemanželský syn; ověřit v křestní matrice. Otec Cyrilla zatím neznámý. "
+                 "MyHeritage (neověřeno): narozena mezi 1874 a 1880."),
     10: dict(n="František Šneberg", y="* 1868", st="prob",
              f=["* 29. 3. 1868 Říčany", "rolník v Říčanech č. 13", "× 26. 5. 1896 Říčany Františka Mityšková"],
              r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896", "ostrovacice_index_n_miroslava_snebergova_1910",
@@ -71,9 +73,25 @@ P = {
              note="Matka Františky a Josefa Mityškových (sňatky 1896: „Marie roz. Konečný“). Svědek Jan Konečný, "
                   "čtvrtláník z Říčan, byl nejspíš její příbuzný."),
     18: dict(n="Josef Čerbák", y="1829–1898", st="fam", f=["* 8. 3. 1829", "† 22. 8. 1898"], r=[],
-             note="Otec Annamarie Čerbákové (od vnuka Petra, potvrzeno)."),
-    19: dict(n="Karolina (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
-             note="Matka Annamarie, provdaná Čerbáková (od vnuka Petra). Rodné příjmení zjistit v matrice."),
+             note="Otec Annamarie Čerbákové (od vnuka Petra, potvrzeno). Stejná data uvádí strom na MyHeritage."),
+    19: dict(n="Karolína Vaňková", y="1837–1882", st="mh", f=["* 1837", "† 25. 6. 1882"], r=[],
+             note="Matka Annamarie (od vnuka Petra). Rodné příjmení a data jen ze stromu na MyHeritage – neověřeno."),
+    36: dict(n="Jan Čerbák", y="1801–1867", st="mh", f=["* 1801", "† 1867"], r=[],
+             note="Otec Josefa – jen ze stromu na MyHeritage, neověřeno."),
+    37: dict(n="Johanna Illíková", y="1805–1869", st="mh", f=["* 1805", "† 1869"], r=[],
+             note="Matka Josefa – jen ze stromu na MyHeritage („Johanna N Illíková“), neověřeno."),
+    38: dict(n="Ondřej Vaněk", y="", st="mh", f=[], r=[],
+             note="Otec Karolíny – jen ze stromu na MyHeritage, neověřeno."),
+    39: dict(n="Mechtilda Kubíčková", y="", st="mh", f=[], r=[],
+             note="Matka Karolíny – jen ze stromu na MyHeritage, neověřeno."),
+    72: dict(n="Joseph Čerbák", y="", st="mh", f=[], r=[],
+             note="Otec Jana – jen ze stromu na MyHeritage, neověřeno."),
+    73: dict(n="Magdalena Havrlantová", y="", st="mh", f=[], r=[],
+             note="Matka Jana – jen ze stromu na MyHeritage („Magdalena Havrlant“), neověřeno."),
+    74: dict(n="Jakub Illík", y="", st="mh", f=[], r=[],
+             note="Otec Johanny – jen ze stromu na MyHeritage („Jakobus Illík“), neověřeno."),
+    75: dict(n="Terezie Bubeníková", y="", st="mh", f=[], r=[],
+             note="Matka Johanny – jen ze stromu na MyHeritage („Theresia Bubeníková“), neověřeno."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
