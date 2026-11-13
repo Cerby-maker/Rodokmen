@@ -74,7 +74,8 @@ P = {
                   "čtvrtláník z Říčan, byl nejspíš její příbuzný."),
     18: dict(n="Josef Čerbák", y="1829–1898", st="doc",
              f=["* 8. 3. 1829 Kyjovice", "× 18. 5. 1858 Kyjovice Karolína Vaňková",
-                "× 5. 2. 1883 Kyjovice Anastasia Vavrečková", "† 22. 8. 1898 Kyjovice č. 42, pohřben 24. 8."],
+                "× 5. 2. 1883 Kyjovice Anastasia Vavrečková", "chalupník v Kyjovicích č. 42",
+                "† 22. 8. 1898 Kyjovice č. 42 (69 let, sešlost věkem), pohřben 24. 8."],
              r=["kyjovice_umrti_josef_cerbak_1898"],
              note="Úmrtí doloženo matrikou (Kyjovice č. 42, syn Jana Čerbáka a Nepomuceny roz. Illíkové). Otec Annamarie "
                   "(od vnuka Petra). Narození, sňatky a druhá manželka Anastasia Vavrečková (* 27. 2. 1852) ze stromu "

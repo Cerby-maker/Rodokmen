@@ -50,13 +50,13 @@
  "kyjovice_umrti_josef_cerbak_1898": {
   "boxes": [
    [
-    0.1,
     0.0,
-    0.4,
+    0.0,
+    1.0,
     1.0
    ]
   ],
   "status": "ok",
-  "note": "Josef Čerbák, rodiče"
+  "note": "úmrtí Josefa Čerbáka"
  }
 }
