@@ -28,8 +28,10 @@ P = {
     4: dict(n="Cyrill Čerbák", y="1892–1965", st="fam",
             f=["* 1892", "pocházel z Kyjovic (okres Opava, u Ostravy)", "rodina bydlela také v Pusté Polomi", "† 1965"], r=[],
             note="Údaje od vnuka Petra. Byl o 18 let starší než manželka Miroslava – možná druhé manželství, ověřit."),
-    5: dict(n="Miroslava Šnébergová", y="* 1910", st="fam", f=["* 1910 Říčany u Brna"], r=[],
-            note="Údaje od vnuka Petra. Pravopis příjmení ověřit v matrice (Šnébergová / Schneeberg…)."),
+    5: dict(n="Miroslava Šnebergová", y="* 1910", st="prob", f=["* 2. 7. 1910 Říčany", "dcera Františka Šneberga"],
+            r=["ostrovacice_index_n_miroslava_snebergova_1910"],
+            note="Rejstřík narozených: „Šnebergová Miroslava, dcera Františka, Říčany, 2/7“. Rok je v rejstříku jen jako "
+                 "„dtto“ – 1910 podle rodiny, z rejstříku zatím nepřečten. Rodina píše „Šnébergová“, matrika „Šnebergová“."),
     6: dict(n="Karel Polák", y="1923–1980", st="fam", f=["* 1923", "pocházel z Řicmanic", "† 1980"], r=[],
             note="Údaje od vnuka Petra."),
     7: dict(n="Eliška Pavlíková", y="1924–1990", st="fam", f=["* 1924", "pocházela z Tikovic", "† 1990"], r=[],
@@ -37,6 +39,14 @@ P = {
     9: dict(n="Annamarie Čerbáková", y="", st="fam", f=[], r=[],
             note="Matka dědy Cyrilla (od vnuka Petra). Rodné příjmení Čerbáková = stejné jako syn, Cyrill byl tedy "
                  "nejspíš nemanželský syn; ověřit v křestní matrice. Otec Cyrilla zatím neznámý."),
+    10: dict(n="František Šneberg", y="", st="prob", f=["rolník v Říčanech č. 13"],
+             r=["ostrovacice_index_n_miroslava_snebergova_1910", "ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"],
+             note="Otec Miroslavy podle rejstříku narozených („dcera Františka“). Že je to týž František Šneberg, rolník "
+                  "v Říčanech č. 13, otec Cyrilly (sňatek 1920), je pravděpodobné, ne doložené."),
+    11: dict(n="Františka Mityšková (?)", y="", st="prob", f=[],
+             r=["ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"],
+             note="Manželka Františka Šneberga podle sňatku dcery Cyrilly 1920 („Františky, roz. [dcery] Ignáce Mityška“). "
+                  "Že je i matkou Miroslavy, je pravděpodobné. Mityškovi se objevují v rodinném vyprávění."),
     14: dict(n="Tomáš Pavlík", y="", st="fam", f=[], r=[],
              note="Otec babičky Elišky (od vnuka Petra)."),
     15: dict(n="Anežka (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
@@ -50,6 +60,8 @@ P = {
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
 # 8: ("Novákové", "Jedna věta, kdo to byli a odkud – ukáže se na webu u rodu."),
 LINES = {
+    10: ("Šnebergové", "Rod babičky Miroslavy, rolníci v Říčanech u Brna (č. 13)."),
+    11: ("Mityškovi", "Rod prababičky Františky z Říčan u Brna – známý i z rodinného vyprávění."),
     9: ("Čerbákové", "Rod dědy Cyrilla z Kyjovic a Pusté Polomi u Ostravy – příjmení po matce Annamarii."),
     14: ("Pavlíkové", "Rod babičky Elišky z Tikovic u Ořechova."),
 }
@@ -68,7 +80,7 @@ SIDE = [
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
     ("Kdo byli rodiče babičky Miroslavy Šnébergové (* 1910 Říčany)?",
-     "Hypotéza: v Říčanech č. 13 žil rolník František Šneberg s manželkou Františkou roz. Mityškovou(?); jejich dcera "
+     "Hypotéza (zesílená): rejstřík narozených uvádí „Miroslava, dcera Františka“. V Říčanech č. 13 žil rolník František Šneberg s manželkou Františkou roz. Mityškovou(?); jejich dcera "
      "Cyrilla (* 1897) se vdala 1920. Miroslava mohla být její mladší sestra; Mityškovi se objevují i v rodinném vyprávění. "
      "Ověřit v rejstříku narozených Ostrovačice (kn. 1552)."),
 ]
