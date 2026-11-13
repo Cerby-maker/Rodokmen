@@ -57,12 +57,19 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=5, n="Cyrilla Šnebergová (* 1897)",
+         t="Z Říčan č. 13, dcera rolníka Františka Šneberga a Františky roz. Mityškové(?). 4. 2. 1920 se v Říčanech "
+           "provdala za Františka Koláře, rolníka z Ostrovačic. Možná starší sestra babičky Miroslavy – zatím neověřeno.",
+         r=["ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"]),
 ]
 
 # Rozpory a otevřené otázky (na web do „Co hledáme“) jako dvojice (otázka, odpověď). Odpověď začněte
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
+    ("Kdo byli rodiče babičky Miroslavy Šnébergové (* 1910 Říčany)?",
+     "Hypotéza: v Říčanech č. 13 žil rolník František Šneberg s manželkou Františkou roz. Mityškovou(?); jejich dcera "
+     "Cyrilla (* 1897) se vdala 1920. Miroslava mohla být její mladší sestra – ověřit v rejstříku narozených Ostrovačice (kn. 1552)."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):
