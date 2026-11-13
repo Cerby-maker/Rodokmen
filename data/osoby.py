@@ -102,9 +102,9 @@ P = {
               note="Otec Josepha – jen ze stromu na MyHeritage, neověřeno."),
     145: dict(n="Anna Vavrečková", y="? – 1817", st="mh", f=["† 1817"], r=[],
               note="Matka Josepha – jen ze stromu na MyHeritage („Anna Vavrečka“), neověřeno."),
-    288: dict(n="Jakub Čerbák", y="asi 1696–1766", st="prob", f=["* asi 1696", "švec v Kyjovicích", "† 2. 12. 1766 (?) Kyjovice, pohřben v Pusté Polomi"],
+    288: dict(n="Jakub Čerbák", y="asi 1696–1766", st="prob", f=["* asi 1696", "švec v Kyjovicích", "† 2. 12. 1766 Kyjovice, pohřben v Pusté Polomi"],
               r=["pusta_polom_umrti_jakub_cerbak_1766"],
-              note="Úmrtí doloženo matrikou: „Jacobus Czerbak, sutor, Kiowitio, 70 annorum“ (rok zatím z MyHeritage). "
+              note="Úmrtí doloženo matrikou: „1766 … 2 Decemb. Jacobus Czerbak, sutor, Kiowitio, 70 annorum“. "
                    "Že je otcem Šimona (* 1745), uvádí jen strom na MyHeritage – mezičlánky Joseph a Šimon zatím neověřeny."),
     289: dict(n="Rosina Nováková", y="", st="mh", f=[], r=[],
               note="Matka Šimona podle stromu na MyHeritage – ten u ní uvádí narození 1765, což nejde (syn Šimon * 1745). "
