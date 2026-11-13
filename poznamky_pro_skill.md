@@ -16,3 +16,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - MZA Acta Publica z cloudového kontejneru (headless Chromium/Playwright): stránka i `viewer` se načtou, ale dlaždice
   vrací HTTP 426 („Unable to open … HTTP 426 attempting to load TileSource“) – v cloudu MZA prakticky nejde.
   Hledání knih přes `slusne.py curl` funguje; parametr `page=2` vrátil stejné výsledky jako `page=1` (u obce s <20 knihami).
+- MyHeritage (veřejná stránka stromu www.myheritage.cz/family-trees/…): z cloudu vrací 403 od ochrany proti robotům
+  (Incapsula) už na první požadavek; WebFetch hostitele ani nenašel. Řešení: uživatel otevře strom sám a pošle snímky.
