@@ -34,5 +34,5 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Fáze 1 – rozhovor s rodinou: výchozí osoba a rodiče (otec * 1948 Brno, matka * 1955 Brno). Doptat: rodné příjmení matky, zda otec žije, sňatek rodičů; další krok prarodiče.
+- Fáze 1 – rozhovor s rodinou: výchozí osoba, rodiče a 4 prarodiče (jen jména a obce původu). Doptat: které Kyjovice, roky narození/úmrtí prarodičů, sňatky, řemesla, čísla domů; pak pradědečci (8–15) a dokumenty.
 - Poznámka: Ivančice = jižní Morava → matriky v MZA Brno (jen v prohlížeči; Playwright v cloudu zatím není).

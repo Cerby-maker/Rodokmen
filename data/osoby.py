@@ -20,10 +20,19 @@
 P = {
     1: dict(n="Petr Čerbák", y="* 1980", st="fam", sex="M", f=["* 1980 Ivančice"], r=[],
             note="Žijící – údaje jen základní."),
-    2: dict(n="MUDr. Petr Čerbák", y="* 1948", st="fam", f=["* 1948 Brno", "lékař"], r=[],
-            note="Údaje od syna Petra. Zda žije, zatím neupřesněno."),
-    3: dict(n="Hana Čerbáková", y="* 1955", st="fam", f=["* 1955 Brno", "zdravotní sestra"], r=[],
-            note="Rodné příjmení zatím neznáme. Údaje od syna Petra."),
+    2: dict(n="MUDr. Petr Čerbák", y="1948–2026", st="fam",
+            f=["* 12. 1. 1948 Brno", "lékař", "† 3. 5. 2026 Brno", "pohřben v Ořechově u Brna"], r=[],
+            note="Údaje od syna Petra."),
+    3: dict(n="Hana Poláková", y="* 1955", st="fam", f=["* 1955 Brno", "zdravotní sestra"], r=[],
+            note="Žijící – údaje jen základní."),
+    4: dict(n="Cyrill Čerbák", y="", st="fam", f=["pocházel z Kyjovic"], r=[],
+            note="Údaje od vnuka Petra. Které Kyjovice (u Znojma, nebo u Opavy?) – doptat."),
+    5: dict(n="Miroslava Šnébergová", y="* 1910", st="fam", f=["* 1910 Říčany u Brna"], r=[],
+            note="Údaje od vnuka Petra. Pravopis příjmení ověřit v matrice (Šnébergová / Schneeberg…)."),
+    6: dict(n="Karel Polák", y="", st="fam", f=["pocházel z Řicmanic"], r=[],
+            note="Údaje od vnuka Petra."),
+    7: dict(n="Eliška Pavlíková", y="", st="fam", f=["pocházela z Tikovic"], r=[],
+            note="Údaje od vnuka Petra. Tikovice jsou dnes část Ořechova u Brna."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
