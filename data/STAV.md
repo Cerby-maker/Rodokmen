@@ -34,6 +34,6 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Fáze 1 – rozhovor s rodinou: výchozí osoba, rodiče a 4 prarodiče (jen jména a obce původu). Doptat: které Kyjovice, roky narození/úmrtí prarodičů, sňatky, řemesla, čísla domů; pak pradědečci (8–15) a dokumenty.
+- Fáze 1 – rozhovor s rodinou: výchozí osoba, rodiče, 4 prarodiče, část pradědečků (9 Annamarie Čerbáková – Cyrill asi nemanželský; 14–15 Tomáš a Anežka Pavlíkovi; 18–19 Josef a Karolina Čerbákovi). Chybí: rodiče Miroslavy Šnébergové a Karla Poláka, sňatky, řemesla, dokumenty.
 - Poznámka: Ivančice, Řicmanice, Tikovice, Říčany = MZA Brno (jen v prohlížeči); Kyjovice a Pustá Polom (okres Opava) = ZA Opava (soal_zoomify.py + prohlížeč).
 - Síť: prostředí Default má jen balíčkové registry – OpenStreetMap i archivy blokované; až budou matriky, navrhnout povolení hostů.

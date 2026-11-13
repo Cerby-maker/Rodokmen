@@ -32,20 +32,26 @@ P = {
             note="Údaje od vnuka Petra. Pravopis příjmení ověřit v matrice (Šnébergová / Schneeberg…)."),
     6: dict(n="Karel Polák", y="1923–1980", st="fam", f=["* 1923", "pocházel z Řicmanic", "† 1980"], r=[],
             note="Údaje od vnuka Petra."),
-    9: dict(n="Annamarie Čerbáková", y="", st="fam", f=[], r=[],
-            note="Matka dědy Cyrilla (od vnuka Petra). Má stejné příjmení jako syn – pokud je to její rodné příjmení, "
-                 "mohl být Cyrill nemanželský syn; ověřit v křestní matrice. Otec Cyrilla zatím neznámý."),
-    18: dict(n="Josef Čerbák", y="", st="fam", f=[], r=[],
-             note="Podle vnuka Petra otec Annamarie Čerbákové – příbuzenský vztah potvrdit (otec Annamarie, nebo Cyrilla?)."),
-    19: dict(n="Karolina (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
-             note="Podle vnuka Petra „Karolina Čerbáková“, matka Annamarie – rodné příjmení zjistit v matrice."),
     7: dict(n="Eliška Pavlíková", y="1924–1990", st="fam", f=["* 1924", "pocházela z Tikovic", "† 1990"], r=[],
             note="Údaje od vnuka Petra. Tikovice jsou dnes část Ořechova u Brna."),
+    9: dict(n="Annamarie Čerbáková", y="", st="fam", f=[], r=[],
+            note="Matka dědy Cyrilla (od vnuka Petra). Rodné příjmení Čerbáková = stejné jako syn, Cyrill byl tedy "
+                 "nejspíš nemanželský syn; ověřit v křestní matrice. Otec Cyrilla zatím neznámý."),
+    14: dict(n="Tomáš Pavlík", y="", st="fam", f=[], r=[],
+             note="Otec babičky Elišky (od vnuka Petra)."),
+    15: dict(n="Anežka (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
+             note="Matka babičky Elišky, provdaná Pavlíková (od vnuka Petra). Rodné příjmení zjistit v matrice."),
+    18: dict(n="Josef Čerbák", y="", st="fam", f=[], r=[],
+             note="Otec Annamarie Čerbákové (od vnuka Petra, potvrzeno)."),
+    19: dict(n="Karolina (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
+             note="Matka Annamarie, provdaná Čerbáková (od vnuka Petra). Rodné příjmení zjistit v matrice."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
 # 8: ("Novákové", "Jedna věta, kdo to byli a odkud – ukáže se na webu u rodu."),
 LINES = {
+    9: ("Čerbákové", "Rod dědy Cyrilla z Kyjovic a Pusté Polomi u Ostravy – příjmení po matce Annamarii."),
+    14: ("Pavlíkové", "Rod babičky Elišky z Tikovic u Ořechova."),
 }
 
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.

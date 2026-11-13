@@ -14,4 +14,5 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Děda Cyrill Čerbák: ročník 1892, zemřel 1965.
 - Děda Karel Polák: ročník 1923, zemřel 1980. Babička Eliška: ročník 1924, zemřela 1990.
 - Doslova: „Maminka dědy Cyrilla byla Annamarie Čerbáková a její otec byl Josef Čerbák a máma Karolina Čerbáková.“
-  (Zapsáno jako: matka Cyrilla = Annamarie; její rodiče = Josef a Karolina Čerbákovi. Vztah potvrzuji s Petrem.)
+  (Zapsáno jako: matka Cyrilla = Annamarie; její rodiče = Josef a Karolina Čerbákovi. Petr potvrdil: Josef byl otec Annamarie.)
+- Babička Eliška Pavlíková: otec Tomáš Pavlík, matka Anežka Pavlíková.
