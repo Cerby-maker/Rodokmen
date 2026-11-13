@@ -72,17 +72,23 @@ P = {
              r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896", "ricany_oddani_josef_mitysek_juliana_snebergova_1896"],
              note="Matka Františky a Josefa Mityškových (sňatky 1896: „Marie roz. Konečný“). Svědek Jan Konečný, "
                   "čtvrtláník z Říčan, byl nejspíš její příbuzný."),
-    18: dict(n="Josef Čerbák", y="1829–1898", st="fam",
+    18: dict(n="Josef Čerbák", y="1829–1898", st="doc",
              f=["* 8. 3. 1829 Kyjovice", "× 18. 5. 1858 Kyjovice Karolína Vaňková",
-                "× 5. 2. 1883 Kyjovice Anastasia Vavrečková", "† 22. 8. 1898 Kyjovice"], r=[],
-             note="Otec Annamarie Čerbákové (od vnuka Petra, potvrzeno). Data od rodiny; místa, sňatky a druhá manželka "
-                  "Anastasia Vavrečková (* 27. 2. 1852 Kyjovice) ze stromu na MyHeritage – neověřeno."),
+                "× 5. 2. 1883 Kyjovice Anastasia Vavrečková", "† 22. 8. 1898 Kyjovice č. 42, pohřben 24. 8."],
+             r=["kyjovice_umrti_josef_cerbak_1898"],
+             note="Úmrtí doloženo matrikou (Kyjovice č. 42, syn Jana Čerbáka a Nepomuceny roz. Illíkové). Otec Annamarie "
+                  "(od vnuka Petra). Narození, sňatky a druhá manželka Anastasia Vavrečková (* 27. 2. 1852) ze stromu "
+                  "na MyHeritage – zatím neověřeno."),
     19: dict(n="Karolína Vaňková", y="1837–1882", st="mh", f=["* 1837", "× 18. 5. 1858 Kyjovice Josef Čerbák", "† 25. 6. 1882"], r=[],
              note="Matka Annamarie (od vnuka Petra). Rodné příjmení a data jen ze stromu na MyHeritage – neověřeno."),
-    36: dict(n="Jan Čerbák", y="1801–1867", st="mh", f=["* 15. 1. 1801 Kyjovice č. 16", "† 1867"], r=[],
-             note="Otec Josefa – jen ze stromu na MyHeritage („Kiowitz 16“), neověřeno."),
-    37: dict(n="Johanna Nepomucena Illíková", y="1805–1869", st="mh", f=["* 22. 8. 1805", "† 1869"], r=[],
-             note="Matka Josefa – jen ze stromu na MyHeritage, neověřeno."),
+    36: dict(n="Jan Čerbák", y="1801–1867", st="doc", f=["* 15. 1. 1801 Kyjovice č. 16", "chalupník v Kyjovicích", "† 1867"],
+             r=["kyjovice_umrti_josef_cerbak_1898"],
+             note="Jméno a povolání (chalupník v Kyjovicích) doloženo zápisem o úmrtí syna Josefa 1898. Data narození "
+                  "a úmrtí ze stromu na MyHeritage; rejstřík zemřelých Kyjovice má „Čerbak Johann“ na str. 4 (asi 1867)."),
+    37: dict(n="Johanna Nepomucena Illíková", y="1805–1869", st="doc", f=["* 22. 8. 1805", "† 1869"],
+             r=["kyjovice_umrti_josef_cerbak_1898"],
+             note="Jméno a původ (dcera kováře Jakoba Illíka) doloženo zápisem o úmrtí syna Josefa 1898. Data ze stromu "
+                  "na MyHeritage; rejstřík zemřelých Kyjovice má „Čerbak Nepomucena“ na str. 7 (asi 1869)."),
     38: dict(n="Ondřej Vaněk", y="", st="mh", f=[], r=[],
              note="Otec Karolíny – jen ze stromu na MyHeritage, neověřeno."),
     39: dict(n="Mechtilda Kubíčková", y="", st="mh", f=[], r=[],
@@ -100,8 +106,8 @@ P = {
     289: dict(n="Rosina Nováková", y="", st="mh", f=[], r=[],
               note="Matka Šimona podle stromu na MyHeritage – ten u ní uvádí narození 1765, což nejde (syn Šimon * 1745). "
                    "Buď je rok chybně, nebo jde o jinou ženu (druhá manželka Jakuba?). Neověřeno."),
-    74: dict(n="Jakub Illík", y="", st="mh", f=[], r=[],
-             note="Otec Johanny – jen ze stromu na MyHeritage („Jakobus Illík“), neověřeno."),
+    74: dict(n="Jakub Illík", y="", st="doc", f=["kovář v Kyjovicích"], r=["kyjovice_umrti_josef_cerbak_1898"],
+             note="Otec Johanny Nepomuceny – doloženo zápisem o úmrtí vnuka Josefa 1898 („Jakoba Illíka, kováře v Kyjovicích“)."),
     75: dict(n="Terezie Bubeníková", y="", st="mh", f=[], r=[],
              note="Matka Johanny – jen ze stromu na MyHeritage („Theresia Bubeníková“), neověřeno."),
 }

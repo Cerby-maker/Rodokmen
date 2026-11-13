@@ -7,3 +7,7 @@ Jednoho květnového dne roku 1896 se v Říčanech vzaly dva páry najednou –
 František Šneberg si vzal Františku Mityškovou a jeho sestra Juliána si vzala jejího bratra Josefa Mityška.
 Dvě sousedské rodiny čtvrtláníků se tak spojily dvakrát. Za svědky šli Jan Konečný (nejspíš z rodiny matky
 Mityškových) a Václav Šneberg. Z prvního páru pochází babička Miroslava (* 1910) a její starší sestra Cyrilla.
+
+## Kovář Jakub Illík z Kyjovic
+Prapraprapraděda Jakub Illík byl kovářem v Kyjovicích. Jeho dcera Johanna Nepomucena se vdala za chalupníka
+Jana Čerbáka a jejich syn Josef (1829–1898) prožil celý život v Kyjovicích, naposledy v domě č. 42.
