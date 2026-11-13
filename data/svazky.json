@@ -19,5 +19,12 @@
   "svazek": "Z, I-Z 1865–1901 (sign. Hr V 10, inv. č. 686) – Budišovice, Hlubočec, Kyjovice, Podvihov, Pustá Polom, Těškovice",
   "popis": "NAD 165 Sbírka matrik Severomoravského kraje I; kniha zemřelých po obcích, s rejstříky",
   "url": "https://digi.archives.cz/da/"
+ },
+ "zao_hrv4": {
+  "archiv": "Zemský archiv v Opavě",
+  "portal": "Digitální badatelna",
+  "svazek": "Z 1689–1795 (sign. Hr V 4, inv. č. 680) – Budišovice, Hlubočec, Horní Lhota, Jakubčovice, Kyjovice, Podvihov, Pustá Polom, Těškovice",
+  "popis": "NAD 165 Sbírka matrik Severomoravského kraje I; latinská kniha zemřelých fary Pustá Polom",
+  "url": "https://digi.archives.cz/da/"
  }
 }

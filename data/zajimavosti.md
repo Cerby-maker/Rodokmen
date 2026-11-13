@@ -11,3 +11,7 @@ Mityškových) a Václav Šneberg. Z prvního páru pochází babička Miroslava
 ## Kovář Jakub Illík z Kyjovic
 Prapraprapraděda Jakub Illík byl kovářem v Kyjovicích. Jeho dcera Johanna Nepomucena se vdala za chalupníka
 Jana Čerbáka a jejich syn Josef (1829–1898) prožil celý život v Kyjovicích, naposledy v domě č. 42.
+
+## Švec Jakub Čerbák (asi 1696–1766)
+Nejstarší dosud doložený Čerbák byl švec v Kyjovicích. Zemřel v prosinci (asi 1766) ve věku 70 let a pochovali ho
+u farního kostela v Pusté Polomi. Narodil se kolem roku 1696 – ještě za vlády císaře Leopolda I.
