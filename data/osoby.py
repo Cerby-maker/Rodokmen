@@ -32,6 +32,13 @@ P = {
             note="Údaje od vnuka Petra. Pravopis příjmení ověřit v matrice (Šnébergová / Schneeberg…)."),
     6: dict(n="Karel Polák", y="1923–1980", st="fam", f=["* 1923", "pocházel z Řicmanic", "† 1980"], r=[],
             note="Údaje od vnuka Petra."),
+    9: dict(n="Annamarie Čerbáková", y="", st="fam", f=[], r=[],
+            note="Matka dědy Cyrilla (od vnuka Petra). Má stejné příjmení jako syn – pokud je to její rodné příjmení, "
+                 "mohl být Cyrill nemanželský syn; ověřit v křestní matrice. Otec Cyrilla zatím neznámý."),
+    18: dict(n="Josef Čerbák", y="", st="fam", f=[], r=[],
+             note="Podle vnuka Petra otec Annamarie Čerbákové – příbuzenský vztah potvrdit (otec Annamarie, nebo Cyrilla?)."),
+    19: dict(n="Karolina (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
+             note="Podle vnuka Petra „Karolina Čerbáková“, matka Annamarie – rodné příjmení zjistit v matrice."),
     7: dict(n="Eliška Pavlíková", y="1924–1990", st="fam", f=["* 1924", "pocházela z Tikovic", "† 1990"], r=[],
             note="Údaje od vnuka Petra. Tikovice jsou dnes část Ořechova u Brna."),
 }
