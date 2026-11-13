@@ -10,3 +10,6 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Babička (matka otce): Miroslava Čerbáková, rozená Šnébergová, narozena 1910 v Říčanech u Brna.
 - Děda (otec matky): Karel Polák, pocházel z Řicmanic.
 - Babička (matka matky): Eliška Poláková, rozená Pavlíková, pocházela z Tikovic.
+- Upřesnění: Kyjovice jsou ty u Ostravy (okres Opava); rodina Čerbákových bydlela také v Pusté Polomi.
+- Děda Cyrill Čerbák: ročník 1892, zemřel 1965.
+- Děda Karel Polák: ročník 1923, zemřel 1980. Babička Eliška: ročník 1924, zemřela 1990.

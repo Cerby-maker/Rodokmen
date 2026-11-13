@@ -35,4 +35,5 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Rozpracováno (aktualizovat průběžně)
 - Fáze 1 – rozhovor s rodinou: výchozí osoba, rodiče a 4 prarodiče (jen jména a obce původu). Doptat: které Kyjovice, roky narození/úmrtí prarodičů, sňatky, řemesla, čísla domů; pak pradědečci (8–15) a dokumenty.
-- Poznámka: Ivančice = jižní Morava → matriky v MZA Brno (jen v prohlížeči; Playwright v cloudu zatím není).
+- Poznámka: Ivančice, Řicmanice, Tikovice, Říčany = MZA Brno (jen v prohlížeči); Kyjovice a Pustá Polom (okres Opava) = ZA Opava (soal_zoomify.py + prohlížeč).
+- Síť: prostředí Default má jen balíčkové registry – OpenStreetMap i archivy blokované; až budou matriky, navrhnout povolení hostů.

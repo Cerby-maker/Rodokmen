@@ -25,13 +25,14 @@ P = {
             note="Údaje od syna Petra."),
     3: dict(n="Hana Poláková", y="* 1955", st="fam", f=["* 1955 Brno", "zdravotní sestra"], r=[],
             note="Žijící – údaje jen základní."),
-    4: dict(n="Cyrill Čerbák", y="", st="fam", f=["pocházel z Kyjovic"], r=[],
-            note="Údaje od vnuka Petra. Které Kyjovice (u Znojma, nebo u Opavy?) – doptat."),
+    4: dict(n="Cyrill Čerbák", y="1892–1965", st="fam",
+            f=["* 1892", "pocházel z Kyjovic (okres Opava, u Ostravy)", "rodina bydlela také v Pusté Polomi", "† 1965"], r=[],
+            note="Údaje od vnuka Petra. Byl o 18 let starší než manželka Miroslava – možná druhé manželství, ověřit."),
     5: dict(n="Miroslava Šnébergová", y="* 1910", st="fam", f=["* 1910 Říčany u Brna"], r=[],
             note="Údaje od vnuka Petra. Pravopis příjmení ověřit v matrice (Šnébergová / Schneeberg…)."),
-    6: dict(n="Karel Polák", y="", st="fam", f=["pocházel z Řicmanic"], r=[],
+    6: dict(n="Karel Polák", y="1923–1980", st="fam", f=["* 1923", "pocházel z Řicmanic", "† 1980"], r=[],
             note="Údaje od vnuka Petra."),
-    7: dict(n="Eliška Pavlíková", y="", st="fam", f=["pocházela z Tikovic"], r=[],
+    7: dict(n="Eliška Pavlíková", y="1924–1990", st="fam", f=["* 1924", "pocházela z Tikovic", "† 1990"], r=[],
             note="Údaje od vnuka Petra. Tikovice jsou dnes část Ořechova u Brna."),
 }
 
