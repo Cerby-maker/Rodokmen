@@ -18,6 +18,8 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
+    1: dict(n="Petr Čerbák", y="* 1980", st="fam", sex="M", f=["* 1980 Ivančice"], r=[],
+            note="Žijící – údaje jen základní."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:

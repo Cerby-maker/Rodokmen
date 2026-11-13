@@ -4,8 +4,8 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Pro koho
-- Výchozí osoba: (doplnit – jméno, rok a místo narození)
-- Kdo s Claudem pracuje a jak chce komunikovat: (doplnit)
+- Výchozí osoba: Petr Čerbák, * 1980 Ivančice (u Brna)
+- Kdo s Claudem pracuje a jak chce komunikovat: Petr sám; česky, stručně. Pracuje v cloudovém sezení (claude.ai) – localhost nevidí.
 
 ## Kde co je
 | Soubor | Obsah |
@@ -34,4 +34,5 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- (zatím nic)
+- Fáze 1 – rozhovor s rodinou: zjištěna výchozí osoba, další krok rodiče (jména, rodné příjmení matky, narození, sňatek).
+- Poznámka: Ivančice = jižní Morava → matriky v MZA Brno (jen v prohlížeči; Playwright v cloudu zatím není).
