@@ -40,4 +40,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - Při prvním sezení na počítači: Fáze 0 dokončit – zkontrolovat Python/Node/ImageMagick/git, nabídnout hlídač sítě
   (`novy_projekt.py . --hlidac`, v cloudu ho nešlo zapnout), Playwright pro MZA a ZA Opava, a přidat místa na mapu
   (Brno, Ivančice, Ořechov, Tikovice, Řicmanice, Říčany u Brna, Kyjovice a Pustá Polom u Opavy).
+- MZA v cloudu nejde (HTTP 426) → Petr posílá snímky obrazovky, já navádím na snímky a čtu. Funguje dobře.
+- Nalezeno: sňatek Kolář × Cyrilla Šnebergová 1920 (Říčany č. 13, rodiče František Šneberg a Františka roz. Mityšková);
+  Mityškovi jsou v rodinném vyprávění → silná stopa k rodičům babičky Miroslavy. Ověřit: index N Ostrovačice kn. 1552 (id 10031).
 - Další krok v matrikách: děda Cyrill Čerbák * 1892 – křest v Kyjovicích (farnost? ZA Opava); Miroslava Šnébergová * 1910 Říčany (MZA).

@@ -69,7 +69,8 @@ SIDE = [
 ISSUES = [
     ("Kdo byli rodiče babičky Miroslavy Šnébergové (* 1910 Říčany)?",
      "Hypotéza: v Říčanech č. 13 žil rolník František Šneberg s manželkou Františkou roz. Mityškovou(?); jejich dcera "
-     "Cyrilla (* 1897) se vdala 1920. Miroslava mohla být její mladší sestra – ověřit v rejstříku narozených Ostrovačice (kn. 1552)."),
+     "Cyrilla (* 1897) se vdala 1920. Miroslava mohla být její mladší sestra; Mityškovi se objevují i v rodinném vyprávění. "
+     "Ověřit v rejstříku narozených Ostrovačice (kn. 1552)."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):
