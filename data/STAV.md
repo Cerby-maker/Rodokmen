@@ -44,3 +44,5 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - Nalezeno: sňatek Kolář × Cyrilla Šnebergová 1920 (Říčany č. 13, rodiče František Šneberg a Františka roz. Mityšková);
   Mityškovi jsou v rodinném vyprávění → silná stopa k rodičům babičky Miroslavy. Ověřit: index N Ostrovačice kn. 1552 (id 10031).
 - Další krok v matrikách: děda Cyrill Čerbák * 1892 – křest v Kyjovicích (farnost? ZA Opava); Miroslava Šnébergová * 1910 Říčany (MZA).
+- Kyjovice (ZA Opava, fara „Hr V“): knihy viz deník ř. 11. Cyrill * 1892 → N+I 1874–1907 (Hr V 11); Josef † 1898 → Z+I
+  1865–1901 (Hr V 10); Jakub † 1766 → Z 1689–1795 (Hr V 4), sňatek → O 1690–1794 (Hr V 3); narození 1696 online není.
