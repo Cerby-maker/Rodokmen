@@ -28,10 +28,10 @@ P = {
     4: dict(n="Cyrill Čerbák", y="1892–1965", st="fam",
             f=["* 1892", "pocházel z Kyjovic (okres Opava, u Ostravy)", "rodina bydlela také v Pusté Polomi", "† 1965"], r=[],
             note="Údaje od vnuka Petra. Byl o 18 let starší než manželka Miroslava – možná druhé manželství, ověřit."),
-    5: dict(n="Miroslava Šnebergová", y="* 1910", st="prob", f=["* 2. 7. 1910 Říčany", "dcera Františka Šneberga"],
+    5: dict(n="Miroslava Šnebergová", y="* 1910", st="doc", f=["* 2. 7. 1910 Říčany", "dcera Františka Šneberga"],
             r=["ostrovacice_index_n_miroslava_snebergova_1910"],
-            note="Rejstřík narozených: „Šnebergová Miroslava, dcera Františka, Říčany, 2/7“. Rok je v rejstříku jen jako "
-                 "„dtto“ – 1910 podle rodiny, z rejstříku zatím nepřečten. Rodina píše „Šnébergová“, matrika „Šnebergová“."),
+            note="Rejstřík narozených Ostrovačice (kn. 1552, sn. 64): „1910 … 2/7 Šnebergová Miroslava, dcera Františka, "
+                 "Říčany, str. 509“. Sama kniha narozených online není. Rodina píše „Šnébergová“, matrika „Šnebergová“."),
     6: dict(n="Karel Polák", y="1923–1980", st="fam", f=["* 1923", "pocházel z Řicmanic", "† 1980"], r=[],
             note="Údaje od vnuka Petra."),
     7: dict(n="Eliška Pavlíková", y="1924–1990", st="fam", f=["* 1924", "pocházela z Tikovic", "† 1990"], r=[],
