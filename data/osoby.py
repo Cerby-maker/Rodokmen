@@ -39,18 +39,37 @@ P = {
     9: dict(n="Annamarie Čerbáková", y="", st="fam", f=[], r=[],
             note="Matka dědy Cyrilla (od vnuka Petra). Rodné příjmení Čerbáková = stejné jako syn, Cyrill byl tedy "
                  "nejspíš nemanželský syn; ověřit v křestní matrice. Otec Cyrilla zatím neznámý."),
-    10: dict(n="František Šneberg", y="", st="prob", f=["rolník v Říčanech č. 13"],
-             r=["ostrovacice_index_n_miroslava_snebergova_1910", "ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"],
-             note="Otec Miroslavy podle rejstříku narozených („dcera Františka“). Že je to týž František Šneberg, rolník "
-                  "v Říčanech č. 13, otec Cyrilly (sňatek 1920), je pravděpodobné, ne doložené."),
-    11: dict(n="Františka Mityšková (?)", y="", st="prob", f=[],
-             r=["ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"],
-             note="Manželka Františka Šneberga podle sňatku dcery Cyrilly 1920 („Františky, roz. [dcery] Ignáce Mityška“). "
-                  "Že je i matkou Miroslavy, je pravděpodobné. Mityškovi se objevují v rodinném vyprávění."),
+    10: dict(n="František Šneberg", y="* 1868", st="prob",
+             f=["* 29. 3. 1868 Říčany", "rolník v Říčanech č. 13", "× 26. 5. 1896 Říčany Františka Mityšková"],
+             r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896", "ostrovacice_index_n_miroslava_snebergova_1910",
+                "ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"],
+             note="Sňatek 1896 doložen. Že je otcem Miroslavy, plyne z rejstříku („dcera Františka“, Říčany) – jiný "
+                  "František Šneberg v Říčanech zatím není znám; křestní zápis Miroslavy online není."),
+    11: dict(n="Františka Mityšková", y="* 1869", st="prob",
+             f=["* 8. 3. 1869 Říčany", "× 26. 5. 1896 Říčany František Šneberg"],
+             r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896",
+                "ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"],
+             note="Sňatek 1896 doložen; matka Cyrilly (sňatek 1920). Že je i matkou Miroslavy, je pravděpodobné "
+                  "(rejstřík uvádí jen otce). Mityškovi se objevují v rodinném vyprávění."),
     14: dict(n="Tomáš Pavlík", y="", st="fam", f=[], r=[],
              note="Otec babičky Elišky (od vnuka Petra)."),
     15: dict(n="Anežka (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
              note="Matka babičky Elišky, provdaná Pavlíková (od vnuka Petra). Rodné příjmení zjistit v matrice."),
+    20: dict(n="Václav Šneberg", y="", st="doc", f=["čtvrtláník v Říčanech", "žil ještě 1896"],
+             r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896", "ricany_oddani_josef_mitysek_juliana_snebergova_1896"],
+             note="Otec Františka a Juliány Šnebergových (sňatky 1896). Svědek obou sňatků „Václav Šneberg, domkář "
+                  "z Říčan“ může být on, nebo jiný Václav (otec je v zápisu čtvrtláník, svědek domkář)."),
+    21: dict(n="Kateřina Šupková", y="", st="doc", f=[],
+             r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896", "ricany_oddani_josef_mitysek_juliana_snebergova_1896"],
+             note="Matka Františka a Juliány Šnebergových (sňatky 1896: „Kateřiny roz. Šupka“)."),
+    22: dict(n="Ignác Mityšek", y="", st="doc", f=["čtvrtláník v Říčanech"],
+             r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896", "ricany_oddani_josef_mitysek_juliana_snebergova_1896",
+                "ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"],
+             note="Otec Františky a Josefa Mityškových (sňatky 1896). Zda v roce 1896 žil, čtu nejistě („živ.“)."),
+    23: dict(n="Marie Konečná", y="", st="doc", f=["žila v Říčanech, ještě 1896"],
+             r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896", "ricany_oddani_josef_mitysek_juliana_snebergova_1896"],
+             note="Matka Františky a Josefa Mityškových (sňatky 1896: „Marie roz. Konečný“). Svědek Jan Konečný, "
+                  "čtvrtláník z Říčan, byl nejspíš její příbuzný."),
     18: dict(n="Josef Čerbák", y="", st="fam", f=[], r=[],
              note="Otec Annamarie Čerbákové (od vnuka Petra, potvrzeno)."),
     19: dict(n="Karolina (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
@@ -73,6 +92,13 @@ SIDE = [
          t="Z Říčan č. 13, dcera rolníka Františka Šneberga a Františky roz. Mityškové(?). 4. 2. 1920 se v Říčanech "
            "provdala za Františka Koláře, rolníka z Ostrovačic. Možná starší sestra babičky Miroslavy – zatím neověřeno.",
          r=["ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"]),
+    dict(k=10, n="Juliána Šnebergová (* 1868 ?)",
+         t="Sestra Františka. 26. 5. 1896 – týž den jako on – se v Říčanech vdala za Josefa Mityška, bratra jeho nevěsty "
+           "Františky: dvojí svatba dvou sourozeneckých párů.",
+         r=["ricany_oddani_josef_mitysek_juliana_snebergova_1896"]),
+    dict(k=11, n="Josef Mityšek (* 1866)",
+         t="Bratr Františky, rolník v Říčanech. 26. 5. 1896 se oženil s Juliánou Šnebergovou, sestrou Františkova ženicha.",
+         r=["ricany_oddani_josef_mitysek_juliana_snebergova_1896"]),
 ]
 
 # Rozpory a otevřené otázky (na web do „Co hledáme“) jako dvojice (otázka, odpověď). Odpověď začněte
@@ -83,6 +109,9 @@ ISSUES = [
      "Hypotéza (zesílená): rejstřík narozených uvádí „Miroslava, dcera Františka“. V Říčanech č. 13 žil rolník František Šneberg s manželkou Františkou roz. Mityškovou(?); jejich dcera "
      "Cyrilla (* 1897) se vdala 1920. Miroslava mohla být její mladší sestra; Mityškovi se objevují i v rodinném vyprávění. "
      "Ověřit v rejstříku narozených Ostrovačice (kn. 1552)."),
+    ("Kdy se narodila Juliána Šnebergová, sestra Františka?",
+     "Otevřené: v zápisu sňatku 1896 čtu 29. 11. 1868, ale bratr František se podle sousedního zápisu narodil 29. 3. 1868 – "
+     "jedno z dat je zapsané nebo přečtené chybně. Ověřit v knize narozených Říčany."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):

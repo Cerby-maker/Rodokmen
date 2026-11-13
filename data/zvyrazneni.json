@@ -22,5 +22,29 @@
   ],
   "status": "ok",
   "note": "Šnebergová Miroslava, dcera Františka"
+ },
+ "ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896": {
+  "boxes": [
+   [
+    0.18,
+    0.02,
+    0.7,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": "František Šneberg × Františka Mityšková"
+ },
+ "ricany_oddani_josef_mitysek_juliana_snebergova_1896": {
+  "boxes": [
+   [
+    0.18,
+    0.06,
+    0.7,
+    0.85
+   ]
+  ],
+  "status": "ok",
+  "note": "Josef Mityšek × Juliána Šnebergová"
  }
 }
