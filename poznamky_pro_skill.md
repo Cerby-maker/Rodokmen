@@ -13,3 +13,6 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   (prohlížeč, CAPTCHA) v cloudu prakticky nejdou → doporučit práci na vlastním počítači.
 - Skill jsem do cloudu instaloval kopií `skills/rodokmen` do `.claude/skills/rodokmen/` v repozitáři projektu
   (plugin v cloudovém kontejneru nepřežije); funguje, jen `verze.py`/aktualizace s tím možná nepočítá.
+- MZA Acta Publica z cloudového kontejneru (headless Chromium/Playwright): stránka i `viewer` se načtou, ale dlaždice
+  vrací HTTP 426 („Unable to open … HTTP 426 attempting to load TileSource“) – v cloudu MZA prakticky nejde.
+  Hledání knih přes `slusne.py curl` funguje; parametr `page=2` vrátil stejné výsledky jako `page=1` (u obce s <20 knihami).

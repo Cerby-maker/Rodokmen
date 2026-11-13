@@ -1,1 +1,58 @@
-{}
+{
+ "Brno": {
+  "re": "Br(no|ně|na)\\b",
+  "dotaz": "Brno, Česko",
+  "lat": 49.1922,
+  "lon": 16.6113,
+  "osm": "Brno, okres Brno-město, Jihomoravský kraj, Česko"
+ },
+ "Ivančice": {
+  "re": "Ivanči",
+  "dotaz": "Ivančice, Česko",
+  "lat": 49.1016,
+  "lon": 16.3776,
+  "osm": "Ivančice, okres Brno-venkov, Jihomoravský kraj, 664 91, Česko"
+ },
+ "Ořechov": {
+  "re": "Ořechov",
+  "dotaz": "Ořechov, okres Brno-venkov",
+  "lat": 49.1112,
+  "lon": 16.5233,
+  "osm": "Ořechov, okres Brno-venkov, Jihomoravský kraj, 664 44, Česko"
+ },
+ "Tikovice": {
+  "re": "Tikovic",
+  "dotaz": "Tikovice, Ořechov",
+  "lat": 49.1075,
+  "lon": 16.5129,
+  "osm": "Tikovice, Ořechov, okres Brno-venkov, Jihomoravský kraj, 664 44, Česko"
+ },
+ "Řicmanice": {
+  "re": "[ŘR][ií]cmanic",
+  "dotaz": "Řicmanice, Česko",
+  "lat": 49.2575,
+  "lon": 16.6939,
+  "osm": "Řícmanice, okres Brno-venkov, Jihomoravský kraj, 664 01, Česko"
+ },
+ "Říčany u Brna": {
+  "re": "Říčan",
+  "dotaz": "Říčany, okres Brno-venkov",
+  "lat": 49.2151,
+  "lon": 16.3933,
+  "osm": "Říčany, okres Brno-venkov, Jihomoravský kraj, 664 82, Česko"
+ },
+ "Kyjovice": {
+  "re": "Kyjovic",
+  "dotaz": "Kyjovice, okres Opava",
+  "lat": 49.8325,
+  "lon": 18.042,
+  "osm": "Kyjovice, okres Opava, Moravskoslezský kraj, 747 68, Česko"
+ },
+ "Pustá Polom": {
+  "re": "Pust(á|é) Polom",
+  "dotaz": "Pustá Polom, okres Opava",
+  "lat": 49.8492,
+  "lon": 17.9979,
+  "osm": "Pustá Polom, okres Opava, Moravskoslezský kraj, 747 69, Česko"
+ }
+}
