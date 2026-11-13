@@ -92,6 +92,8 @@ SIDE = [
          t="Z Říčan č. 13, dcera rolníka Františka Šneberga a Františky roz. Mityškové(?). 4. 2. 1920 se v Říčanech "
            "provdala za Františka Koláře, rolníka z Ostrovačic. Možná starší sestra babičky Miroslavy – zatím neověřeno.",
          r=["ricany_oddani_frantisek_kolar_cyrilla_snebergova_1920"]),
+    dict(k=2, n="Roman Čerbák (* 1932)",
+         t="Starší bratr tatínka Petra, syn Cyrilla a Miroslavy, narozený 1932 v Ostravě (podle rodiny).", r=[]),
     dict(k=10, n="Juliána Šnebergová (* 1862)",
          t="Sestra Františka. 26. 5. 1896 – týž den jako on – se v Říčanech vdala za Josefa Mityška, bratra jeho nevěsty "
            "Františky: dvojí svatba dvou sourozeneckých párů.",

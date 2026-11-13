@@ -16,5 +16,6 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Doslova: „Maminka dědy Cyrilla byla Annamarie Čerbáková a její otec byl Josef Čerbák a máma Karolina Čerbáková.“
   (Zapsáno jako: matka Cyrilla = Annamarie; její rodiče = Josef a Karolina Čerbákovi. Petr potvrdil: Josef byl otec Annamarie.)
 - Babička Eliška Pavlíková: otec Tomáš Pavlík, matka Anežka Pavlíková.
+- Cyrill a Miroslava měli v roce 1932 v Ostravě syna Romana → svatba před rokem 1932.
 - Petr: „Mityškovi se v rodinných historkách vyskytovali.“ (Reakce na sňatek 1920 v Říčanech, kde je matka nevěsty
   Cyrilly Šnebergové rozená Mityšková – podporuje, že Šnebergovi z Říčan č. 13 jsou rodina babičky Miroslavy.)
