@@ -70,7 +70,7 @@ P = {
              r=["ricany_oddani_frantisek_sneberg_frantiska_mityskova_1896", "ricany_oddani_josef_mitysek_juliana_snebergova_1896"],
              note="Matka Františky a Josefa Mityškových (sňatky 1896: „Marie roz. Konečný“). Svědek Jan Konečný, "
                   "čtvrtláník z Říčan, byl nejspíš její příbuzný."),
-    18: dict(n="Josef Čerbák", y="", st="fam", f=[], r=[],
+    18: dict(n="Josef Čerbák", y="1829–1898", st="fam", f=["* 8. 3. 1829", "† 22. 8. 1898"], r=[],
              note="Otec Annamarie Čerbákové (od vnuka Petra, potvrzeno)."),
     19: dict(n="Karolina (rodné příjmení neznámé)", y="", st="fam", f=[], r=[],
              note="Matka Annamarie, provdaná Čerbáková (od vnuka Petra). Rodné příjmení zjistit v matrice."),
