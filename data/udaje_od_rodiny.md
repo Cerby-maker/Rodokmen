@@ -24,6 +24,11 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
   Bubeníková; Karolíniny rodiče Ondřej Vaněk a Mechtilda Kubíčková. Místa ve stromu na snímku nejsou.
   Druhý snímek: Josephovi rodiče Šimon Čerbák 1745–1806 a Anna Vavrečka † 1817; Šimonovi rodiče Jakub Čerbák
   1696–1766 a Rosina Nováková „1765 – zemřelá“ (rok narození nemožný – chyba ve stromu).
+  Detail Josefa (strom „Čerbákova Web Site“, 1 zdroj): * 8. 3. 1829 Kyjovice, † 22. 8. 1898 Kyjovice (69 let);
+  otec Jan * 15. 1. 1801 „Kiowitz 16“, matka Johanna Nepomucena Illíková * 22. 8. 1805; sestry Anna a Františka;
+  1. manželka Karolína Vaňková (* 1837), sňatek 18. 5. 1858 Kyjovice, děti Františka, Emma, František, Otilie,
+  Ferdinand, Annamarie; 2. manželka Anastasia Vavrečková (* 27. 2. 1852 Kyjovice), sňatek 5. 2. 1883 Kyjovice,
+  děti Rudolf, Josef, Jan, Arnošta.
 - Cyrill a Miroslava měli v roce 1932 v Ostravě syna Romana → svatba před rokem 1932.
 - Petr: „Mityškovi se v rodinných historkách vyskytovali.“ (Reakce na sňatek 1920 v Říčanech, kde je matka nevěsty
   Cyrilly Šnebergové rozená Mityšková – podporuje, že Šnebergovi z Říčan č. 13 jsou rodina babičky Miroslavy.)
