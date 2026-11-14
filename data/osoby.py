@@ -102,18 +102,18 @@ P = {
     73: dict(n="Magdalena Havrlantová", y="", st="mh", f=[], r=[],
              note="Matka Jana – jen ze stromu na MyHeritage („Magdalena Havrlant“), neověřeno."),
     144: dict(n="Šimon Čerbák", y="asi 1745–1806", st="prob",
-              f=["* asi 1745", "dědičný rychtář v Kyjovicích", "† 17. 8. 1806 Kyjovice č. 60, pohřben 19. 8."],
-              r=["umrti_simon_cerbak_rychtar_1806"],
+              f=["* asi 1745 Kyjovice, pokřtěn 22. dne", "dědičný rychtář v Kyjovicích", "† 17. 8. 1806 Kyjovice č. 60, pohřben 19. 8."],
+              r=["kyjovice_krest_simon_cerbak_1745", "umrti_simon_cerbak_rychtar_1806"],
               note="Úmrtí doloženo: „Simon Czerbak, Erbrichter“, Kiowitz č. 60, 61 let, plicní nemoc. "
                    "Že je otcem Josepha a synem Jakuba, uvádí jen strom na MyHeritage – zatím neověřeno."),
     145: dict(n="Anna Vavrečková", y="? – 1817", st="mh", f=["† 1817"], r=[],
               note="Matka Josepha – jen ze stromu na MyHeritage („Anna Vavrečka“), neověřeno."),
     288: dict(n="Jakub Čerbák", y="asi 1696–1766", st="prob", f=["* asi 1696", "švec v Kyjovicích", "× 11. 11. 1743 (?) Pustá Polom Rosina Nováková", "† 2. 12. 1766 Kyjovice, pohřben v Pusté Polomi"],
-              r=["kyjovice_oddani_jakub_cerbak_rosina_novakova_1743", "pusta_polom_umrti_jakub_cerbak_1766"],
+              r=["kyjovice_oddani_jakub_cerbak_rosina_novakova_1743", "kyjovice_krest_simon_cerbak_1745", "pusta_polom_umrti_jakub_cerbak_1766"],
               note="Úmrtí doloženo matrikou: „1766 … 2 Decemb. Jacobus Czerbak, sutor, Kiowitio, 70 annorum“. "
                    "Že je otcem Šimona (* 1745), uvádí jen strom na MyHeritage – mezičlánky Joseph a Šimon zatím neověřeny."),
     289: dict(n="Rosina Nováková", y="", st="prob", f=["z Kyjovic", "× 11. 11. 1743 (?) Jakub Čerbák"],
-              r=["kyjovice_oddani_jakub_cerbak_rosina_novakova_1743"],
+              r=["kyjovice_oddani_jakub_cerbak_rosina_novakova_1743", "kyjovice_krest_simon_cerbak_1745"],
               note="Sňatek doložen: panna Rosina, dcera zemřelého Jakuba Nováka z Kyjovic, si 1743 vzala Jakuba Čerbáka. "
                    "Že je matkou Šimona (* asi 1745), uvádí MyHeritage – rok jejího narození tam (1765) je chybný."),
     578: dict(n="Jakub Novák", y="? – před 1743", st="doc", f=["z Kyjovic", "† před 1743"],
