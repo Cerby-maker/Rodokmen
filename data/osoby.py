@@ -101,8 +101,8 @@ P = {
                   "Jana (* 1801) a synem rychtáře Šimona, uvádí strom na MyHeritage – zápis o úmrtí rodiče neuvádí."),
     73: dict(n="Magdalena Havrlantová", y="", st="mh", f=[], r=[],
              note="Matka Jana – jen ze stromu na MyHeritage („Magdalena Havrlant“), neověřeno."),
-    144: dict(n="Šimon Čerbák", y="asi 1745–1806", st="prob",
-              f=["* asi 1745 Kyjovice, pokřtěn 22. dne", "dědičný rychtář v Kyjovicích", "† 17. 8. 1806 Kyjovice č. 60, pohřben 19. 8."],
+    144: dict(n="Šimon Čerbák", y="1745–1806", st="prob",
+              f=["* 1745 Kyjovice (pokřtěn 22. dne)", "dědičný rychtář v Kyjovicích", "† 17. 8. 1806 Kyjovice č. 60, pohřben 19. 8."],
               r=["kyjovice_krest_simon_cerbak_1745", "umrti_simon_cerbak_rychtar_1806"],
               note="Úmrtí doloženo: „Simon Czerbak, Erbrichter“, Kiowitz č. 60, 61 let, plicní nemoc. "
                    "Že je otcem Josepha a synem Jakuba, uvádí jen strom na MyHeritage – zatím neověřeno."),
