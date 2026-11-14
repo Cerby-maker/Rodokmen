@@ -15,3 +15,8 @@ Jana Čerbáka a jejich syn Josef (1829–1898) prožil celý život v Kyjovicí
 ## Švec Jakub Čerbák (asi 1696–1766)
 Nejstarší dosud doložený Čerbák byl švec v Kyjovicích. Zemřel v prosinci (asi 1766) ve věku 70 let a pochovali ho
 u farního kostela v Pusté Polomi. Narodil se kolem roku 1696 – ještě za vlády císaře Leopolda I.
+
+## Rychtář Šimon Čerbák (asi 1745–1806)
+Syn ševce Jakuba to dotáhl na dědičného rychtáře („Erbrichter“) – nejváženějšího muže ve vsi, který zastupoval
+vrchnost, rozsuzoval sousedské spory a dohlížel na pořádek. Zemřel v srpnu 1806, v době napoleonských válek,
+ve věku 61 let na plicní nemoc. (Že byl synem Jakuba, zatím uvádí jen strom na MyHeritage.)

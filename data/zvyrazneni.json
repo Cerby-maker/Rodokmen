@@ -70,5 +70,17 @@
   ],
   "status": "ok",
   "note": "Jacobus Czerbak, sutor, 70 let"
+ },
+ "umrti_simon_cerbak_rychtar_1806": {
+  "boxes": [
+   [
+    0.0,
+    0.15,
+    1.0,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": "Simon Czerbak, Erbrichter, 61 let"
  }
 }
