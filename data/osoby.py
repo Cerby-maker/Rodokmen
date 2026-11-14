@@ -99,9 +99,9 @@ P = {
     73: dict(n="Magdalena Havrlantová", y="", st="mh", f=[], r=[],
              note="Matka Jana – jen ze stromu na MyHeritage („Magdalena Havrlant“), neověřeno."),
     144: dict(n="Šimon Čerbák", y="asi 1745–1806", st="prob",
-              f=["* asi 1745", "dědičný rychtář", "† 17. 8. 1806 (dům č. 60), pohřben 19. 8."],
+              f=["* asi 1745", "dědičný rychtář v Kyjovicích", "† 17. 8. 1806 Kyjovice č. 60, pohřben 19. 8."],
               r=["umrti_simon_cerbak_rychtar_1806"],
-              note="Úmrtí doloženo: „Simon Czerbak, Erbrichter“, 61 let, plicní nemoc. Obec oddílu (Kyjovice?) zatím neurčena. "
+              note="Úmrtí doloženo: „Simon Czerbak, Erbrichter“, Kiowitz č. 60, 61 let, plicní nemoc. "
                    "Že je otcem Josepha a synem Jakuba, uvádí jen strom na MyHeritage – zatím neověřeno."),
     145: dict(n="Anna Vavrečková", y="? – 1817", st="mh", f=["† 1817"], r=[],
               note="Matka Josepha – jen ze stromu na MyHeritage („Anna Vavrečka“), neověřeno."),

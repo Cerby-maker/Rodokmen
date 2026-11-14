@@ -17,6 +17,6 @@ Nejstarší dosud doložený Čerbák byl švec v Kyjovicích. Zemřel v prosinc
 u farního kostela v Pusté Polomi. Narodil se kolem roku 1696 – ještě za vlády císaře Leopolda I.
 
 ## Rychtář Šimon Čerbák (asi 1745–1806)
-Syn ševce Jakuba to dotáhl na dědičného rychtáře („Erbrichter“) – nejváženějšího muže ve vsi, který zastupoval
+Syn ševce Jakuba to dotáhl na dědičného rychtáře („Erbrichter“) v Kyjovicích (dům č. 60) – nejváženějšího muže ve vsi, který zastupoval
 vrchnost, rozsuzoval sousedské spory a dohlížel na pořádek. Zemřel v srpnu 1806, v době napoleonských válek,
 ve věku 61 let na plicní nemoc. (Že byl synem Jakuba, zatím uvádí jen strom na MyHeritage.)
