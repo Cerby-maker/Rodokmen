@@ -108,13 +108,17 @@ P = {
                    "Že je otcem Josepha a synem Jakuba, uvádí jen strom na MyHeritage – zatím neověřeno."),
     145: dict(n="Anna Vavrečková", y="? – 1817", st="mh", f=["† 1817"], r=[],
               note="Matka Josepha – jen ze stromu na MyHeritage („Anna Vavrečka“), neověřeno."),
-    288: dict(n="Jakub Čerbák", y="asi 1696–1766", st="prob", f=["* asi 1696", "švec v Kyjovicích", "† 2. 12. 1766 Kyjovice, pohřben v Pusté Polomi"],
-              r=["pusta_polom_umrti_jakub_cerbak_1766"],
+    288: dict(n="Jakub Čerbák", y="asi 1696–1766", st="prob", f=["* asi 1696", "švec v Kyjovicích", "× 11. 11. 1743 (?) Pustá Polom Rosina Nováková", "† 2. 12. 1766 Kyjovice, pohřben v Pusté Polomi"],
+              r=["kyjovice_oddani_jakub_cerbak_rosina_novakova_1743", "pusta_polom_umrti_jakub_cerbak_1766"],
               note="Úmrtí doloženo matrikou: „1766 … 2 Decemb. Jacobus Czerbak, sutor, Kiowitio, 70 annorum“. "
                    "Že je otcem Šimona (* 1745), uvádí jen strom na MyHeritage – mezičlánky Joseph a Šimon zatím neověřeny."),
-    289: dict(n="Rosina Nováková", y="", st="mh", f=[], r=[],
-              note="Matka Šimona podle stromu na MyHeritage – ten u ní uvádí narození 1765, což nejde (syn Šimon * 1745). "
-                   "Buď je rok chybně, nebo jde o jinou ženu (druhá manželka Jakuba?). Neověřeno."),
+    289: dict(n="Rosina Nováková", y="", st="prob", f=["z Kyjovic", "× 11. 11. 1743 (?) Jakub Čerbák"],
+              r=["kyjovice_oddani_jakub_cerbak_rosina_novakova_1743"],
+              note="Sňatek doložen: panna Rosina, dcera zemřelého Jakuba Nováka z Kyjovic, si 1743 vzala Jakuba Čerbáka. "
+                   "Že je matkou Šimona (* asi 1745), uvádí MyHeritage – rok jejího narození tam (1765) je chybný."),
+    578: dict(n="Jakub Novák", y="? – před 1743", st="doc", f=["z Kyjovic", "† před 1743"],
+              r=["kyjovice_oddani_jakub_cerbak_rosina_novakova_1743"],
+              note="Otec Rosiny, v roce 1743 již zemřelý (sňatek dcery)."),
     74: dict(n="Jakub Illík", y="", st="doc", f=["kovář v Kyjovicích"], r=["kyjovice_umrti_josef_cerbak_1898"],
              note="Otec Johanny Nepomuceny – doloženo zápisem o úmrtí vnuka Josefa 1898 („Jakoba Illíka, kováře v Kyjovicích“)."),
     75: dict(n="Terezie Bubeníková", y="", st="mh", f=[], r=[],
@@ -164,8 +168,8 @@ ISSUES = [
      "Cyrilla (* 1897) se vdala 1920. Miroslava mohla být její mladší sestra; Mityškovi se objevují i v rodinném vyprávění. "
      "Ověřit v rejstříku narozených Ostrovačice (kn. 1552)."),
     ("Kdo byla matka Šimona Čerbáka (* 1745)?",
-     "Otevřené: strom na MyHeritage uvádí Rosinu Novákovou * 1765 – o 20 let mladší než její údajný syn. Chyba ve stromu; "
-     "ověřit v matrikách."),
+     "Hypotéza: Rosina, dcera Jakuba Nováka z Kyjovic, se 1743 vdala za Jakuba Čerbáka – rok narození 1765 na MyHeritage "
+     "je chybný. Ženich je ale v zápisu „mládenec“ a Jakubovi (* asi 1696) by bylo 47 – ověřit Šimonovým křtem (kn. N 1713–1779)."),
     ("Kdy se narodila Juliána Šnebergová, sestra Františka?",
      "Vyřešeno: na ostřejším snímku je 29. 11. 1862 (věk 34), ne 1868 – rozpor s bratrem Františkem (* 1868) zmizel."),
 ]
