@@ -86,7 +86,7 @@ P = {
              r=["kyjovice_umrti_josef_cerbak_1898"],
              note="Jméno a povolání (chalupník v Kyjovicích) doloženo zápisem o úmrtí syna Josefa 1898. Data narození "
                   "a úmrtí ze stromu na MyHeritage; rejstřík zemřelých Kyjovice má „Čerbak Johann“ na str. 4 (asi 1867)."),
-    37: dict(n="Johanna Nepomucena Illíková", y="1805–1869", st="doc", f=["* 22. 8. 1805", "† 1869"],
+    37: dict(n="Johanna Nepomucena Illíková", y="1805–1869", st="doc", f=["* 22. 8. 1805", "dcera kováře z Kyjovic", "† 1869"],
              r=["kyjovice_umrti_josef_cerbak_1898"],
              note="Jméno a původ (dcera kováře Jakoba Illíka) doloženo zápisem o úmrtí syna Josefa 1898. Data ze stromu "
                   "na MyHeritage; rejstřík zemřelých Kyjovice má „Čerbak Nepomucena“ na str. 7 (asi 1869)."),
