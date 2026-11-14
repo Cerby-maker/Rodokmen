@@ -94,8 +94,11 @@ P = {
              note="Otec Karolíny – jen ze stromu na MyHeritage, neověřeno."),
     39: dict(n="Mechtilda Kubíčková", y="", st="mh", f=[], r=[],
              note="Matka Karolíny – jen ze stromu na MyHeritage, neověřeno."),
-    72: dict(n="Joseph Čerbák", y="", st="mh", f=[], r=[],
-             note="Otec Jana – jen ze stromu na MyHeritage, neověřeno."),
+    72: dict(n="Joseph Čerbák", y="asi 1765–1827", st="prob",
+             f=["* asi 1765", "domkář a švec v Kyjovicích č. 41", "† 23. 11. 1827 (?) Kyjovice č. 41"],
+             r=["kyjovice_umrti_joseph_cerbak_1827"],
+             note="Úmrtí doloženo („Joseph Czerbak, Häusler und Schuster“, 62 let, mrtvice; rok asi 1827). Že je otcem "
+                  "Jana (* 1801) a synem rychtáře Šimona, uvádí strom na MyHeritage – zápis o úmrtí rodiče neuvádí."),
     73: dict(n="Magdalena Havrlantová", y="", st="mh", f=[], r=[],
              note="Matka Jana – jen ze stromu na MyHeritage („Magdalena Havrlant“), neověřeno."),
     144: dict(n="Šimon Čerbák", y="asi 1745–1806", st="prob",
